@@ -2,10 +2,8 @@
 
 Static PNGs for ZeptoMail HTML templates (wordmarks, footer icon, store badges, social icons).
 
-CDN base (jsDelivr):
+**Base path (append `/{filename}.png`):**
 
-`https://cdn.jsdelivr.net/gh/ezrabraham/blank2@main/liqwifi-email/`
+`https://raw.githubusercontent.com/ezrabraham/blank2/main/liqwifi-email`
 
-Raw GitHub:
-
-`https://raw.githubusercontent.com/ezrabraham/blank2/main/liqwifi-email/`
+Example: `.../liqwifi-email/facebook-icon-white.png`
